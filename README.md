@@ -1,2 +1,3 @@
-# JSON-GLB
-Convert json files to glb files (from mc to bloxd)
+# JSON -> GLB
+Convert json files to glb files 
+(from Minecraft to Bloxd.io)
